@@ -99,3 +99,15 @@ locations affect relative paths.
 I also learned how to organize a multi-page
 website using folders and semantic HTML
 navigation elements.
+
+### Live Website
+
+My DigiHub Assignment 2.4 website is published
+using GitHub Pages.
+
+Live Website:
+https://favi-oj.github.io/digihub-multipage-website/
+
+GitHub Repository:
+https://github.com/favi-oj/digihub-multipage-website
+
